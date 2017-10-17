@@ -1,3 +1,8 @@
-# trantest
+## trantest
 
-This is GitLocalize Test Repo.
+This is My GitLocalize Test Repo.
+
+## Usage
+
+go to GitLocalize site.
+
