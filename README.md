@@ -1,4 +1,4 @@
-## trantest
+## Tran Test
 
 This is GitLocalize Test Repo.
 
