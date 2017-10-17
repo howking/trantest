@@ -1,0 +1,3 @@
+# trantest
+
+これは GitLocalize のテストリポジトリです。
