@@ -1,6 +1,6 @@
 ## trantest
 
-This is My GitLocalize Test Repo.
+This is GitLocalize Test Repo.
 
 ## Usage
 
